@@ -34,6 +34,8 @@ I am a Machine Learning Engineer who loves to build highly scalable solutions us
 - **Mentorship** — Guide professionals in AI and machine learning development
 - **Open Source** — Contribute tools that make ML accessible
 
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/591bf169-214b-4137-bf7f-d5ddd7666115.jpeg?v=1785385607)](https://www.boot.dev/certificates/591bf169-214b-4137-bf7f-d5ddd7666115)
+
 
 ## 🔗 Connect & Learn More
 
